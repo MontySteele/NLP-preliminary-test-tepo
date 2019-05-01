@@ -1,7 +1,7 @@
 # Springboard
 Hosts work for Springboard
 
--Capstone project proposal-
+###Capstone project proposal###
 
 A project using NLP on the dataset “Comments on articles published in the New York Times” (https://www.kaggle.com/aashita/nyt-comments). 
 
