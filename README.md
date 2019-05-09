@@ -16,3 +16,8 @@ I can train my model by comparing the known comment count to the predicted count
 For step 2), the article will be trained on a dataset of comments for these articles to generate comments for the above articles and evaluating how many recommendations each comment will receive.
 
 This project should ultimately be hosted on a simple web server which can take an input through text boxes, or through uploading a file. The output can be displayed on the page or downloaded.
+
+
+### Data for this project ###
+
+The data for this project is saved inder the /Data directory as .csv files. One group of files contains data on ~9000 New York Times articles. The other group of files  contains ~2M comments made on these articles. The comment data files are stored as git LFS objects.
