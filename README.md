@@ -21,3 +21,10 @@ This project should ultimately be hosted on a simple web server which can take a
 ### Data for this project ###
 
 The data for this project is saved inder the /Data directory as .csv files. One group of files contains data on ~9000 New York Times articles. The other group of files  contains ~2M comments made on these articles. The comment data files are stored as git LFS objects.
+
+This data was taken from the ["New York Times Comments"](https://www.kaggle.com/aashita/nyt-comments "New York Times Comments") on Kaggle.
+
+
+
+
+
